@@ -1,5 +1,5 @@
 # Ex04 Places Around Me
-## Date: 
+## Date:22/09/2025
 
 ## AIM
 To develop a website to display details about the places around my house.
@@ -171,20 +171,15 @@ The White Tiger is a rare color variant of the Bengal Tiger, known for its stunn
 🔎 Conservation Status: Endangered (due to habitat loss & poaching)
 </body>
 </html>
-
+```
 
 ## OUTPUT
-Screenshot 2025-09-22 113203.png
-Screenshot 2025-09-22 113547.png
-Screenshot 2025-09-22 113607.png
-Screenshot 2025-09-22 114024.png
-Screenshot 2025-09-22 114137.png
-Screenshot 2025-09-22 114208.png
-
-
-
-
-
+![alt text](<Screenshot 2025-09-22 113203.png>)
+![alt text](<Screenshot 2025-09-22 113547.png>)
+![alt text](<Screenshot 2025-09-22 113607.png>)
+![alt text](<Screenshot 2025-09-22 114024.png>)
+![alt text](<Screenshot 2025-09-22 114137.png>)
+![alt text](<Screenshot 2025-09-22 114208.png>)
 
 ## RESULT
 The program for implementing image maps using HTML is executed successfully.
